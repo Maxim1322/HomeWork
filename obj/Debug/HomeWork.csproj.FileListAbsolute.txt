@@ -1,0 +1,9 @@
+C:\Users\Максим\source\repos\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Максим\source\repos\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Максим\source\repos\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Максим\source\repos\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\HomeWork\obj\Debug\HomeWork.Form1.resources
+C:\Users\Максим\source\repos\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\Максим\source\repos\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Максим\source\repos\HomeWork\obj\Debug\HomeWork.pdb
